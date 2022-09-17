@@ -14,11 +14,12 @@ So, onto the steps then !
 - (Maybe add in updating the ublox firmware here?)
 - [How to configure the raspberry pi](PiConfiguration.md)
 - Siting the antenna (tbc)
-- configuring your location
+- [configuring your location](ConfigLocation.md)
 - registering an rtk2go mount point
 - entering the correct password
 - [wait, message sets???](messagesets.md)
 - publishing, and testing
 - connecting your tractor
+- other useful tools (SNIP?)
 
 Also, I'm not responsible for any mistakes or shortcomings in this guide, or any misadventure that might occur. Everything is at your own risk. Ya get it?
