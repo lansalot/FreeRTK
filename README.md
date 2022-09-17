@@ -13,8 +13,7 @@ So, onto the steps then !
 - [What you need to buy](WhatToBuy.md)
 - (Maybe add in updating the ublox firmware here?)
 - [How to configure the raspberry pi](PiConfiguration.md)
-- How to set it up for wifi
-- First boot
+- Siting the antenna (tbc)
 - configuring your location
 - registering an rtk2go mount point
 - entering the correct password

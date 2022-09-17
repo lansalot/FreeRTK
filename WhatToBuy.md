@@ -35,16 +35,19 @@ This is the little computer that runs rtkbase - but thanks to the global semicon
 
 What you want is a model 3 (A or B) or model 4. Avoid anything like Pico or Pi zero - and if in doubt, just shoot us a message on the [Facebook](https://fb.me/freertk) group.
 
+Here's the one I bought, a model 3B - it has 4 USBs (you only need one), network, wifi and HDMI:
+![The Raspberry pi](thepi.jpg)
+
 While you're buying, you should add
 - a case for it
 - a memory card of at least 8gb
 - a micro USB power supply
-- You might also need a USB "Micro SD card reader". You can find these on Amazon if stuck for a fiver. Lots of laptops have these built in tho, so have a look
+- You might also need a USB "Micro SD card reader". You can find these on Amazon if stuck for a fiver. Lots of laptops have these built in tho, so have a look first, you might already have one.
 
 Some other things you'll need to complete the setup are:
 - a USB keyboard
-- a TV or monitor with HDMI connection
-- a network/ethernet cable (optional, if not using wifi)
+- a TV or computer monitor with HDMI connection
+- a network/ethernet cable (if not using wifi)
 
 Reckon on around £50, for all this. Watch out for Rasperry pi models on Amazon that are the same, but stupid money. Patience and persistence will get you there without paying through the nose.
 

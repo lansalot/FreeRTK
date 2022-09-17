@@ -78,3 +78,41 @@ Change it and put your wifi access point name and password in exactly as it shou
 
 Save the file, eject the card reader, and you're done!
 
+You're now ready to put the memory card in the raspberry pi, and it'll only go in one way, so don't force it.
+![Memory card](piunderneath.jpg)
+
+Next, connect the USB keyboard, an HDMI cable, a network cable (if not using wifi), and ensure the TV/monitor is turned on - **and most importantly, plug in the Ublox GPS!!!**. Now, insert the micro USB from the power adapter, and it should start booting !
+
+Take note - if your memory card isn't in, then absolutely nothing will appear on screen and your monitor/TV will likely go to sleep for "no signal". If that happens, remove power from the Pi, insert memory card again, power back on.
+
+All being well tho, you'll start to see stuff like this!
+
+![Boot stage 1](boot1.jpg)
+![Boot stage 1](boot2.jpg)
+
+
+**When you're asked to enter a username, choose "basegnss". I've seen a bug or two where if you pick a different name, it doesn't change it everywhere it needs to - so save yourself some grief here.**
+
+![Boot stage 1](boot3.jpg)
+
+Pick a password, and confirm it.
+![Boot stage 1](boot4.jpg)
+You might notice that it seems to stick at this stage for a while - be patient, it's normal.
+![Boot stage 1](boot5.jpg)
+You might also wonder why there's no proper IP address assigned at this stage. Normal if using wifi, eth0 might pick one up at this stage tho, but don't worry at this time if there isn't.
+![Boot stage 1](boot6.jpg)
+Here, because the ZED-F9P is plugged in, we can see it has detected it (on /dev/ttyACM0) and is configuring it to be a base station. See that red "FAILED" message? We can ignore that just now, it's trying to start the GPS in the background while it's still configuring it. Nothing to worry about.
+![Boot stage 1](boot7.jpg)
+And finally, the all-important "END OF INSTALLATION". You can now go to your web browser on your phone or PC to continue the configuration. You don't need the USB keyboard or the HDMI/TV/monitor attached any more!
+![Boot stage 1](boot8.jpg)
+
+
+You can now proceed to "[Configuring for your location](ConfigLocation.md)".
+
+---
+
+# What to do if it goes wrong:
+
+- if it doesn't pick up an IP address from wifi, perhaps you got the access name/password wrong in the wpa_supplicant.conf file? Start over on this page again, use Etcher to write a fresh image on the memory card, and take your time
+- Still no wifi? Try using a network cable instead
+- no output on the TV/monitor? Ensure the memory card is inserted correctly
