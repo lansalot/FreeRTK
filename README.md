@@ -1,13 +1,13 @@
 # FreeRTK
 How to set up your own RTK base station
 
-Details coming soon on how to set this up for yourself
+OK, about time I got writing this stuff down. This is from the point of view of someone who wishes to set up their own base station. It's a lot simpler than you might think, if you can get past the hurdle of finding stock that is...
 
-- what you need
-- how to flash the MMC card
-- how to configure for wifi
-- how to connect everything up
-- first boot - basegnss etc
+- [What you need to buy](WhatToBuy.md)
+- How to configure the raspberry pi
+- How to set it up for wifi
+- How to wire it together
+- First boot
 - configuring your location
 - registering an rtk2go mount point
 - entering the correct password
