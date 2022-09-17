@@ -14,11 +14,18 @@ So, first of all, you'll want to buy a GPS to use as a base station. This whole 
 I found the easiest to get them was here at Ardusimple, this is a starter kit of the board and the antenna:
 https://www.ardusimple.com/product/simplertk2b-basic-starter-kit-ip65/
 
+![Simplee kit](simplekit.png) 
+
 That's the one I've bought for a couple of base stations and it works great, and yep, if you've clear skies, that antenna will likely be more than enough to get you going.
 
 If however, you'd like a fancier antenna (and again, it's not totally necessary), then you can buy [the board](https://www.ardusimple.com/product/simplertk2b/) on its own and [this antenna ](https://www.ardusimple.com/product/survey-gnss-multiband-antenna/) instead.
 
+![Survey Antenna](surveyantenna.png)
+![The board](theboard.png)
+
 When you order from Ardusimple, you'll be given the opportunity to pay the import tax, or not - I opted not, and immediately got an email from DHL asking for the cash. So up to you really, think it works out about the same. In total, I paid about £250 tho.
+
+Take note: if you're thinking about going for different models, then you REALLY want the ZED-F9P, and make sure you're not buying just the chip somehow. You really want that board with the micro USB output.
 
 ---
 
