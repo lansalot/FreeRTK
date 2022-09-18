@@ -1,9 +1,10 @@
 # Connecting your tractor
 
-Every tractor is different I'm afraid.
+Every tractor is different I'm afraid and we've just not had access to test them all. As we get more tho, we'll update this list, so check back now and again, or check the [Facebook](https://fb.me/freertk) page!
 
-But in short, you're looking for settings that mention:
+But in short, you're looking for settings somewhere in the menus that mention:
 
+- NTRIP or RTK (**not** RTX, that's different)
 - IP address or hostname (this will be 2.23.52.207 for rtk2go)
 - port (this will be 2101)
 - username (preferably uour email address)
@@ -18,6 +19,6 @@ On Fendt, you'll be into the guts of the GPS auto-steer menus. I had to blank ou
 
 ![Fendt](fendt.png)
 
-On FJ Dynamics, it's in the settings, (again, had to blank out the information). Here, you put in the IP for rtk2go.com and port, then press "Get Source", it will list all the mount points at rtk2go, pick yours and you're away. Fill in your email address for account, and again, password can be anything you like!
+On FJ Dynamics, it's in the settings, (again, had to blank out the information). Here, you put in "rtk2go.com" and port 2101, then press "Get Source", it will list all the mount points at rtk2go, pick yours and you're away. Fill in your email address for account, and again, password can be anything you like!
 
 ![FJ Dynamics](fjd.png)

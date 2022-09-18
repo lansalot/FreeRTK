@@ -28,4 +28,4 @@ You can also get a fuller report with the SNIP status page [here](http://rtk2go.
 
 And that page has all the nice technical stuff on it.
 
-Back on rtk2base, you should now have green lights beside "Main service", "Ntrip service", and "File Service". And that's about it
+Back on rtk2base, you should now have green lights beside "Main service", "Ntrip service", and "File Service". And that's about it. Seriously. Go get some work done in the field, your work is over here! ;)

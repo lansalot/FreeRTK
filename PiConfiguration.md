@@ -6,13 +6,15 @@ Don't be daunted - it might seem tricky, but this isn't that bad. And if you get
 
 First, we'll get the rtkbase software installed on the memory card.
 
-The rtkbase home page is [here](https://github.com/Stefal/rtkbase#ready-to-flash-release), and you want to scroll down to "Ready to flash release". Then click the link for the "ready to flash iso file [here](https://github.com/jancelin/pi-gen/releases/latest" and that'll take you to the next page.
+The rtkbase home page is [here](https://github.com/Stefal/rtkbase#ready-to-flash-release), and you want to scroll down to "Ready to flash release".
+![Ready](readytoflash.png)
+Then click the link for the "ready to flash iso file [here](https://github.com/jancelin/pi-gen/releases/latest" and that'll take you to the next page.
 
 At time of writing, that was version [2.3.4](https://github.com/CentipedeRTK/pi-gen_RTKbase/releases/tag/BaseGNSS-RPi-2.3.4), so scroll down until you reach the assets section. You're looking for the biggest file there, highlighted in the below example:
 
 ![Assets](assets.png)
 
-You can unzip the file or not, Etcher will understand it either way.
+Once downloaded, you can unzip the file or not, Etcher will understand it either way.
 
 ---
 
@@ -29,7 +31,13 @@ Now, here's the tricky bit - this piece of software absolutely SHOULD recognise 
 
 If you have a 16gb memory card, then you'll be looking for that sort of size in Etcher. If you've a 32gb card, then you're looking for something in that amount.
 
-I can't stress this enough - **proceed at your own risk here and ensure you are looking at the right device**! Also, if you usually have a USB drive plugged in, of any kind, **UNPLUG IT WHILE YOU DO THIS**!
+---
+
+I can't stress this enough - **proceed at your own risk here and ensure you are looking at the right device**!
+
+---
+
+Also, if you usually have a USB drive plugged in, and if you aren't confident you've identified the right device, **UNPLUG IT WHILE YOU DO THIS**!
 
 On my PC, I first did this **without** the memory card installed, and this is what Etcher showed me. It wouldn't let me select a target, and that's correct.
 
@@ -107,7 +115,7 @@ And finally, the all-important "END OF INSTALLATION". You can now go to your web
 ![Boot stage 1](boot8.jpg)
 
 
-You can now proceed to "[Configuring for your location](ConfigLocation.md)".
+The good news? You won't need to go through all that again! And you'll never have to see all that code scrolling by, if you're lucky ! You can now proceed to "[Configuring for your location](ConfigLocation.md)".
 
 ---
 

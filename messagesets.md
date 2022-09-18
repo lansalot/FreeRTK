@@ -16,8 +16,10 @@ However, we found in testing that older John Deere kit was not happy with that s
 
 `1004,1006,1008,1012,1013,1019,1020,1033,1045,1046,1230`
 
-Now, this presents us with a problem - we can only send one set to rtk2go, for one mount point. However, the author of rtkbase has extended the code base so that we can set multiple message sets up, but this isn't in full release as yet.
+Now, this presents us with a problem - we can only send one set to rtk2go, for one mount point. However, the author of rtkbase has extended the code base so that we can set multiple message sets up, but this isn't in full release as yet. It is coming tho!
 
-In time, we can simply reserve two mount points, eg "BALLOCH" and "BALLOCHALT", and publish the default list to BALLOCH, and the shorter list to BALLOCHALT.
+If you're wanting to use this with John Deere, ping us a message on [Facebook](https://fb.me/freertk).
+
+In time, we can simply reserve two mount points, eg "BALLOCH" and "BALLOCHALT", and publish the default list to BALLOCH, and the shorter JD-friendly list to BALLOCHALT.
 
 I'd recommend we stick with the MOUNTPOINT / MOUNTPOINTALT naming scheme to make life easier for folks who are using this.

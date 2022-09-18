@@ -24,6 +24,9 @@ So, onto the steps then !
 - [configuring your location](ConfigLocation.md)
 - [registering an rtk2go mount point](rtk2go.md)
 - [publishing to rtk2go](publishing.md)
+
+Seriously, you're finished setting up rtkbase now.. but if you want more?
+
 - [wait, message sets???](messagesets.md)
 - [connecting your tractor](tractor.md)
 - other useful tools (SNIP?)

@@ -23,3 +23,5 @@ With this in mind, I don't recommend enabling even on the temporary password UNT
 ![rtk2go registration](rtk2go3.png)
 
 If you didn't get any emails, check your spam folder. Also, the mount point registration could take a few days and while you can use that WEEK2225 temporarily, if you don't change it once the reservation has happened, you might get banned for a bit. It's not permanent tho.
+
+Also, if you're registering one as part of this document, please send the admins a message on [Facebook](https://fb.me/freertk) so they can update their map. Cheers!
