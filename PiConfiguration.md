@@ -21,7 +21,7 @@ You can unzip the file or not, Etcher will understand it either way.
 Using your card writer/adapter, plug them into your PC
 ![Memory card writer](memcardreader.jpg)
 
-Then, go download [Etcher](hhttps://www.balena.io/etcher/) and run it. You likely want the Installer one.
+Then, go download [Etcher](https://www.balena.io/etcher/) and run it. You likely want the Installer one.
 
 ![Etcher](etcher.png)
 
@@ -45,7 +45,7 @@ When i selected "Change", I got this additional confirmation:
 
 ![Confirmation](etcheradvanced.png)
 
-So, now we know we have the right card - and again, if you are in ANY DOUBT DO NOT PROCEED - we can write the image, so you'll be selecting "Flash from file" and pick your downloaded rtkbase file.
+So, now we know we have the right card - and again, if you are in ANY DOUBT DO NOT PROCEED - we can write the image, so you'll be selecting "Flash from file" and pick your downloaded rtkbase file. Note that Etcher understands zip files, so you don't need to expand it first.
 
 ![Zip file](bigfile.png)
 
@@ -81,9 +81,9 @@ Save the file, eject the card reader, and you're done!
 You're now ready to put the memory card in the raspberry pi, and it'll only go in one way, so don't force it.
 ![Memory card](piunderneath.jpg)
 
-Next, connect the USB keyboard, an HDMI cable, a network cable (if not using wifi), and ensure the TV/monitor is turned on - **and most importantly, plug in the Ublox GPS!!!**. Now, insert the micro USB from the power adapter, and it should start booting !
+Next, connect the USB keyboard, an HDMI cable, a network cable (if not using wifi), and ensure the TV/monitor is turned on - **and most importantly, plug in the Ublox GPS!!!**. Now, insert the micro USB plug from the power adapter, and it should start booting !
 
-Take note - if your memory card isn't in, then absolutely nothing will appear on screen and your monitor/TV will likely go to sleep for "no signal". If that happens, remove power from the Pi, insert memory card again, power back on.
+Take note - if your memory card isn't in, then **absolutely nothing** will appear on screen and your monitor/TV will likely go to sleep for "no signal". If that happens, remove power from the Pi, insert memory card again, power back on.
 
 All being well tho, you'll start to see stuff like this!
 
