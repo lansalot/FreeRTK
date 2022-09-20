@@ -18,7 +18,7 @@ OK, about time I got writing this stuff down. This is from the point of view of 
 So, onto the steps then !
 
 - [What you need to buy](WhatToBuy.md)
-- (Maybe add in updating the ublox firmware here?)
+- [Updating the firmware](UpdatingFirmware.md)
 - [How to configure the raspberry pi](PiConfiguration.md)
 - [Siting the antenna](Siting.md)
 - [configuring your location](ConfigLocation.md)
