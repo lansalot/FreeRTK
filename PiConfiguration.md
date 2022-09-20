@@ -8,6 +8,7 @@ First, we'll get the rtkbase software installed on the memory card.
 
 The rtkbase home page is [here](https://github.com/Stefal/rtkbase#ready-to-flash-release), and you want to scroll down to "Ready to flash release".
 ![Ready](readytoflash.png)
+
 Then click the link for the "ready to flash iso file [here](https://github.com/jancelin/pi-gen/releases/latest" and that'll take you to the next page.
 
 At time of writing, that was version [2.3.4](https://github.com/CentipedeRTK/pi-gen_RTKbase/releases/tag/BaseGNSS-RPi-2.3.4), so scroll down until you reach the assets section. You're looking for the biggest file there, highlighted in the below example:
@@ -79,7 +80,7 @@ Open it in notepad, and you can see it looks like the following:
 
 ![Before changing wifi](wpa1.png)
 
-Change it and put your wifi access point name and password in exactly as it should be, with the right upper/lowercase where applicable!!
+In the Network section, change the ssid for your wifi access point name and PSK should be your wifi password - and these have to be spot-on perfect, with the right upper/lowercase where applicable!!
 
 ![After changing](wpa2.png
 )
@@ -111,7 +112,7 @@ You might also wonder why there's no proper IP address assigned at this stage. N
 ![Boot stage 1](boot6.jpg)
 Here, because the ZED-F9P is plugged in, we can see it has detected it (on /dev/ttyACM0) and is configuring it to be a base station. See that red "FAILED" message? We can ignore that just now, it's trying to start the GPS in the background while it's still configuring it. Nothing to worry about.
 ![Boot stage 1](boot7.jpg)
-And finally, the all-important "END OF INSTALLATION". You can now go to your web browser on your phone or PC to continue the configuration. You don't need the USB keyboard or the HDMI/TV/monitor attached any more!
+And finally, the all-important "END OF INSTALLATION". Check that instruction about what to type in your browser, in this example http://192.168.1.20 (ignore all the 2a00:etc etc after that). You can now go to your web browser on your phone or PC to continue the configuration. You don't need the USB keyboard or the HDMI/TV/monitor attached any more!
 ![Boot stage 1](boot8.jpg)
 
 

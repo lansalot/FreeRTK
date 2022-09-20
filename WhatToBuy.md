@@ -33,7 +33,7 @@ Take note: if you're thinking about going for different models, then you REALLY 
 
 This is the little computer that runs rtkbase - but thanks to the global semiconductor shortages, it can be tricky to find one in stock.
 
-To make life easy, so you can troubleshoot when things go wrong, you really want a computer with monitor/display output, enough USBs to plug in a keyboard, preferably ethernet and wifi. And that pretty much leaves on choice that ticks all boxes: what you want is a Raspberry Pi model 3 (A or B) or model 4. Avoid anything like Pico or Pi zero - and if in doubt, just shoot us a message on the [Facebook](https://fb.me/freertk) group.
+To make life easy, so you can troubleshoot when things go wrong, you really want a computer with monitor/display output, enough USBs to plug in a keyboard, preferably ethernet and wifi. And that pretty much leaves one choice that ticks all boxes: what you want is a Raspberry Pi model 3 (A or B) or model 4. Avoid anything like Pico or Pi zero - and if in doubt, just shoot us a message on the [Facebook](https://fb.me/freertk) group.
 
 Here's the one I bought, a model 3B - it has 4 USBs (you only need one once you've finished configuring it), network, wifi and HDMI:
 ![The Raspberry pi](thepi.jpg)

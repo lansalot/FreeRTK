@@ -1,5 +1,6 @@
 # Updating the firmware
 
+Chances are your ZED-F9P doesn't have the latest firmware loaded. Well, let's fix that. Firmware updates tend to bring features, performance and security benefits.
 
 The makers, ArduSimple, have a [guide here](https://www.ardusimple.com/zed-f9p-firmware-update-with-simplertk2b/) and you should follow that.
 
@@ -13,3 +14,5 @@ One thing tho - if when you press the green Go button, it fails saying that it f
 
 
 Am about 90% sure that was what I needed to do, but your mileage may vary. Doing the above won't hurt, anyway.
+
+Again, if you're stuck with that error, please message us on https://fb.me/freertk
