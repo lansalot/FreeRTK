@@ -36,7 +36,7 @@ Notice tho that the crosshairs are still probably a bit approximate, and the blu
 
 Now, if you're using this RTK for actual surveying, then that's a big deal ! You need to have the crosshairs in exactly the right place as accurate maps kinda rely on that sort of thing. But for differential GPS - RTK - you can be approximate enough and it should still work fine. What we're discussing here is not setting up an absolute-centimetre perfect position at this stage. We'll get a bit more accurate further down this page.
 
-What I tend to do however is let that web page with the bars sit for an hour or so, and then copy a new set of co-ordinates over and save them. This gets you to a pretty good baseline and in some cases, that might well be enough to get RTK accurate enough.
+What I tend to do however is let that web page with the bars sit for an hour or so, and then copy a new set of co-ordinates over and save them. This gets you to a pretty good baseline and in some cases, that might well be enough to get RTK accurate for your purposes.
 
 What you can do though is take a log file and send it off for post-processing, and this should return a very accurate base. Turn on the file service, you might want to change archive duration to 7, and save.
 
