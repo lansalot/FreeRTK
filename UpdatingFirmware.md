@@ -1,7 +1,7 @@
 # Updating the firmware
 
 
-The makers, ArduSimple, also have a [guide here](https://www.ardusimple.com/zed-f9p-firmware-update-with-simplertk2b/) and you should follow that.
+The makers, ArduSimple, have a [guide here](https://www.ardusimple.com/zed-f9p-firmware-update-with-simplertk2b/) and you should follow that.
 
 One thing tho - if when you press the green Go button, it fails saying that it failed prematurely (can't remember the exact wording), then (and I wish I'd documented this previously, my bad...)
 
