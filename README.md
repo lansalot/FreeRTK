@@ -27,6 +27,7 @@ So, onto the steps then !
 
 Seriously, you're finished setting up rtkbase now.. but if you want more?
 
+- [Dynamic DNS - get a hostname that follows your IP when it changes!](dns.md)
 - [wait, message sets???](messagesets.md)
 - [Checking your stream with SNIP](snip.md)
 - [connecting your tractor](tractor.md)
