@@ -28,8 +28,8 @@ So, onto the steps then !
 Seriously, you're finished setting up rtkbase now.. but if you want more?
 
 - [wait, message sets???](messagesets.md)
+- [Checking your stream with SNIP](snip.md)
 - [connecting your tractor](tractor.md)
-- other useful tools (SNIP?)
 
 Also, I'm not responsible for any mistakes or shortcomings in this guide, or any misadventure that might occur. Everything is at your own risk. Ya get it?
 
