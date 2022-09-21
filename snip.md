@@ -34,4 +34,6 @@ The stream will immediately connect, if it can, and start pulling down data. Rig
 
 And enjoy that sweet sweet free RTK ;)
 
+![SNIP](snip7.png)
+
 **What else is this useful for? Well, if you pay for a commercial service, and you can't work out what message set your device needs, but the commercial one works fine, you can add the commercial as a relay stream and watch what messages they send. And then amend your "RTCM messages" in the "Nrtip service" section to match.**
