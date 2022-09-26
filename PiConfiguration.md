@@ -24,6 +24,8 @@ Once downloaded, you can unzip the file or not, Etcher will understand it either
 Using your card writer/adapter, plug them into your PC
 ![Memory card writer](memcardreader.jpg)
 
+If you're asked whether you want to format the memory card, or told that it must be formatted in order to be used, just say No/Cancel.
+
 Then, go download [Etcher](https://www.balena.io/etcher/) and run it. You likely want the Installer one.
 
 ![Etcher](etcher.png)
