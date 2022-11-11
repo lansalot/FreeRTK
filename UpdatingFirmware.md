@@ -8,13 +8,16 @@ The makers, ArduSimple, have a [guide here](https://www.ardusimple.com/zed-f9p-f
 
 One thing tho - if when you press the green Go button, it fails saying that it failed prematurely (can't remember the exact wording), then (and I wish I'd documented this previously, my bad...)
 
-- open up a command prompt
+- open up a command prompt as Administrator
 - copy and paste the code that you see in your gray box into it and press RETURN
 - ![Code](ubxfirmware.png)
-- it will tell you the DLL that was missing
+- it will tell you the DLL that was missing (when I tried this recently, it was FTD2XX.DLL)
 - find that in your windows\system32\drivers folder, and copy it to "c:\program files(x86)\u-blox\u-center_v22.05"
 
+Then, return to your U-Center and run it again.
 
 Am about 90% sure that was what I needed to do, but your mileage may vary. Doing the above won't hurt, anyway.
 
 Again, if you're stuck with that error, please message us on https://fb.me/freertk
+
+I documented this on my Micro build here! https://discourse.agopengps.com/t/micro-v2-4-a-build-thread/10623/5
