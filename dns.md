@@ -1,1 +1,1 @@
-# It's coming, I promise
+# It's coming, I promise - in the meantime, go sign up at dynu.com and work it out ;)

@@ -12,7 +12,8 @@ Unfortunately, unless you properly register a mount point (and unlike rtk2go, it
 
 Back on rtk2base, you should now have green lights beside "Main service", "Ntrip service", and "File Service". And that's about it. Seriously. Go get some work done in the field, your work is over here! ;)
 
-Centipede shows a load of different configurations for John Deere, Fendt, CaseNH etc [here](https://docs.centipede.fr/docs/proprietaire/tracteurs.html)
+
+**Centipede shows a load of different configurations for John Deere, Fendt, CaseNH etc [here](https://docs.centipede.fr/docs/proprietaire/tracteurs.html)**
 
 Yes it's in French, use [Google Translate](https://docs-centipede-fr.translate.goog/docs/proprietaire/tracteurs.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) if you're stuck!
 
