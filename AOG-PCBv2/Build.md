@@ -18,12 +18,19 @@ Place your resistor (330k in this instance, see the text file) in R1 and solder 
 
 Work your way through the 330k resistors. When you're done, 9 indents, 9 330k resistors !
 
-Then, start the 1k resistors. When you
+Then, start the 1k resistors. Again, as you do each one, indent it in the partslist.
 
-Diodes next, then LED (long leg to R19)
+Diodes next, do the two small 1N4004s, and the 3A Diode, then the LED (long leg/anode should be nearest to R19)
 
-Then, do the headers - here, I fitted an arduino ethernet shield, so I could be sure the headers were aligned correctly.
+Then, fit the opto couplers, only 3 of these.
+
+Then, do the headers - here, I temporarily fitted an arduino ethernet shield, so I could be sure the headers were aligned correctly.
+
+Next, the pins for the on/off.
 
 
+The ADS1115, solder the pins to it, and the header to the board. Don't fit it into the headers just yet tho.
 
+Then, the green power headers
 
+Voltage regulators next!

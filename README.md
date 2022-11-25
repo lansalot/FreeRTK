@@ -20,12 +20,19 @@ So, onto the steps then !
 - [What you need to buy](WhatToBuy.md)
 - [Updating the firmware](UpdatingFirmware.md)
 - [How to configure the raspberry pi](PiConfiguration.md)
-- [Siting the antenna](Siting.md)
 - [configuring your location](ConfigLocation.md)
+
+Now, you have a choice - rtk2go or centipede. rtk2go are the makers of popular NTRIP caster, SNIP - a powerful piece of software. They generously provide a free NTRIP service called rtk2go, and if you want to use that, you can do so. Centipede is ran by the French govt, for the benefit of French farmers (did you know they provide RTK free to everyone over there??) but anyone can use it. At this point in time, I think using centipede is a little more resilient.
+
+So pick one:
 - [registering an rtk2go mount point](rtk2go.md)
 - [publishing to rtk2go](publishing.md)
 
-Seriously, you're finished setting up rtkbase now.. but if you want more?
+or
+
+- [publishing to Centipede](centipede.md)
+
+Once that's done, you're finished setting up rtkbase.. but if you want more?
 
 - [Dynamic DNS - get a hostname that follows your IP when it changes!](dns.md)
 - [wait, message sets???](messagesets.md)
