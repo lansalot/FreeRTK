@@ -41,4 +41,9 @@ Once that's done, you're finished setting up rtkbase.. but if you want more?
 
 Also, I'm not responsible for any mistakes or shortcomings in this guide, or any misadventure that might occur. Everything is at your own risk. Ya get it?
 
-If you want to see it in action, here's a handful of videos using my base as a correction source for [FJ Dynamics](https://youtu.be/cLvjmOE0-rY) and [Case Trimble](https://youtu.be/D7sSRx7XJ1Y).
+If you want to see it in action, here's a handful of videos using my base as a correction source:
+- [FJ Dynamics](https://youtu.be/cLvjmOE0-rY)
+- [Case Trimble](https://youtu.be/D7sSRx7XJ1Y)
+- [NH T7 AutoCommand](https://youtu.be/C6NiiC102wA)
+- [Fendt 724 Gen6](https://youtu.be/Ld9XlGIocTU)
+- 
