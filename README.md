@@ -46,4 +46,4 @@ If you want to see it in action, here's a handful of videos using my base as a c
 - [Case Trimble](https://youtu.be/D7sSRx7XJ1Y)
 - [NH T7 AutoCommand](https://youtu.be/C6NiiC102wA)
 - [Fendt 724 Gen6](https://youtu.be/Ld9XlGIocTU)
-- 
+- [Case CVX195 with AgOpenGPS](https://youtu.be/vvtz_aw-2HE) (note, we were still playing with steering settings at this point)
