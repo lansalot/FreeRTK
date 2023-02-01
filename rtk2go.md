@@ -12,7 +12,7 @@ You also want to pick a password, and if you don't, you'll be sent one to use in
 
 ![rtk2go registration](rtk2go1.png)
 
-Leave everything else at default, but put in a city and country.
+Leave everything else at default, but put in a city and country. Do NOT tick the box about publishing from a static IP.
 
 ![rtk2go registration](rtk2go2.png)
 
