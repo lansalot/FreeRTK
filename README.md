@@ -8,6 +8,8 @@ OK, about time I got writing this stuff down. This is from the point of view of 
 
 ### This is documenting how to set up an rtkbase station, and provide free RTK correction data to yourself and the local community. Nothing more! It is absolutely NOT a way to get free unlocks for centimetre level accuracy for your machinery. It's not a way to save you thousands in doing that. It's a way to potentially save you hundreds, per machine, per year for the RTK subscription tho. Also, you might well need to provide your own SIM card if that's how your system works. You can get data-only SIMs with 2gb allowance for a fiver a month, and some systems like FJ Dynamics, can use your phone as a hotspot, so you won't even need a SIM card.
 
+If you do need a SIM card tho, I'd recommend https://v12.co.uk if you're in the UK. They do a range of 4-network un-steered SIM cards which will automatically roam to the network with the strongest 4G signal. So if on one half of your farm, O2 is strongest, yet when you're down the road it's all EE, then this will have you covered. Tell them FreeRTK sent you!
+
 ---
 
 ### Still here? Good, but before you think about buying a base station kit tho, you need to consider:
