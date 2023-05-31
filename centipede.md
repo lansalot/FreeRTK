@@ -12,6 +12,27 @@ Unfortunately, unless you properly register a mount point (and unlike rtk2go, it
 
 Back on rtk2base, you should now have green lights beside "Main service", "Ntrip service", and "File Service". And that's about it. Seriously. Go get some work done in the field, your work is over here! ;)
 
+## To appear on the map:
+Enable file service
+Wait a few days
+Go the Logs section
+Click on the pencil icon
+![Rinex](https://github.com/lansalot/FreeRTK/assets/3919203/01d39cdf-b200-4dc7-acec-f665ea1b1f10)
+
+select NRCAN -> generate rinex
+Run it through this website: https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php
+
+Choose a 4 letter mount name.
+
+Take 2 pictures of your antenna mounting.
+
+Send an e-mail to contact@centipede.fr
+
+Country:
+Location: 
+Mount point: 
+Owner: 
+Profession: 
 
 **Centipede shows a load of different configurations for John Deere, Fendt, CaseNH etc [here](https://docs.centipede.fr/docs/proprietaire/tracteurs.html)**
 
