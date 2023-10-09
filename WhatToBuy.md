@@ -24,6 +24,8 @@ When you order from Ardusimple, you'll be given the opportunity to pay the impor
 
 Take note: if you're thinking about going for different models, then you REALLY want the ZED-F9P, and make sure you're not buying "just the chip" somehow. You really want that board with the micro USB output, and that "F9P" designation IS IMPORTANT!
 
+Get an antenna extension cable while you're at it: https://www.ardusimple.com/product/antenna-cable-extender/
+
 ---
 
 ### The computer
