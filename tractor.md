@@ -5,10 +5,10 @@ Every tractor is different I'm afraid and we've just not had access to test them
 But in short, you're looking for settings somewhere in the menus that mention:
 
 - NTRIP or RTK (**not** RTX, that's different)
-- IP address or hostname (this will be 2.23.52.207 for rtk2go)
+- IP address or hostname
 - port (this will be 2101)
-- username (preferably uour email address)
-- password (anything you like!)
+- username (for rtk2go, your email address - for centipede, use "centipede")
+- password (for both - "centipede")
 - mount point (the mount point name you registered)
 
 When you connect your tractor to rtk2go.com, they only ask that you provide a valid email address in case you're having issues and they want to contact you. I've never received an email from them for what it's worth. Password can be anything you like.
