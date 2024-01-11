@@ -39,13 +39,14 @@ graph TD
 
 ## Casters
 
-The two main casters are rtk2go and centipede. rtk2go are the makers of popular NTRIP caster, SNIP - a powerful piece of software. They generously provide a free NTRIP service called rtk2go, and if you want to use that, you can do so. Centipede is ran by the French govt, for the benefit of French farmers (did you know they provide RTK free to everyone over there??) but anyone can use it. At this point in time, I think using centipede is a little more resilient.
+The two main casters are rtk2go and centipede. rtk2go are the makers of popular NTRIP caster, SNIP - a powerful piece of software. They generously provide a free NTRIP service called rtk2go, and if you want to use that, you can do so. Centipede is ran by the French govt, for the benefit of French farmers (did you know they provide RTK free to everyone over there??) but anyone can use it. Both are great options and the good news is that rtkbase can push to both of them at the same time !
 
-So pick one:
+So go through the process and get yourself sorted for both:
+
 - [Registering an rtk2go mount point](rtk2go.md)
 - [Publishing to rtk2go](publishing.md)
 
-or
+and
 
 - [publishing to Centipede](centipede.md)
 
