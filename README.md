@@ -15,7 +15,7 @@ If you do need a SIM card tho, I'd recommend https://v12.co.uk if you're in the 
 ### Still here? Good, but before you think about buying a base station kit tho, you need to consider:
 - is it really necessary? Is there more than enough coverage in my area?
 - if I'm buying it primarily to support my vehicle, do I know for a fact it will work with it?
-  - at time of writing, this works with Case IH Trimble, FJ Dynamics, AgOpenGPS and (with a different [message set](messagesets.md)), John Deere. John Deere are a bit of a nightmare tho, they don't make life easy. Consider yourself warned there...
+  - at time of writing, this works with Case IH Trimble, MF, New Holland RavenPrecision, Fendt, Claas S-terminals FJ Dynamics, AgOpenGPS and (with a different [message set](messagesets.md)), John Deere. John Deere are a bit of a nightmare tho, they don't make life easy. Consider yourself warned there...
 
 So, onto the steps then !
 
@@ -24,7 +24,13 @@ So, onto the steps then !
 - [How to configure the raspberry pi](PiConfiguration.md)
 - [configuring your location](ConfigLocation.md)
 
-Now, you have a choice - rtk2go or centipede. rtk2go are the makers of popular NTRIP caster, SNIP - a powerful piece of software. They generously provide a free NTRIP service called rtk2go, and if you want to use that, you can do so. Centipede is ran by the French govt, for the benefit of French farmers (did you know they provide RTK free to everyone over there??) but anyone can use it. At this point in time, I think using centipede is a little more resilient.
+So how does your signal get out to the machine in the field?
+
+Well, that's via what's called a broadcaster (or caster for short). You make the programme - the correction signals - and you push them to the caster. The machines connect to the caster. So whether you've one machine or 100 connecting to your base, your internet usage is the same. You're only sending it once.
+
+## Casters
+
+The two main casters are rtk2go and centipede. rtk2go are the makers of popular NTRIP caster, SNIP - a powerful piece of software. They generously provide a free NTRIP service called rtk2go, and if you want to use that, you can do so. Centipede is ran by the French govt, for the benefit of French farmers (did you know they provide RTK free to everyone over there??) but anyone can use it. At this point in time, I think using centipede is a little more resilient.
 
 So pick one:
 - [registering an rtk2go mount point](rtk2go.md)
