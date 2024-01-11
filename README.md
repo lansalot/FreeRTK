@@ -30,8 +30,11 @@ Well, that's via what's called a broadcaster (or caster for short). You make the
 
 ```mermaid
 graph TD
-  A--B;
-  A--C;
+  BaseStation[Your Base Station] -->Caster;
+  Caster --> Tractor1
+  Caster --> Tractor2
+  Caster --> Sprayer1
+  Caster --> Combine1
 ```
 
 ## Casters
