@@ -56,6 +56,14 @@ It'll take a good few minutes to create, but save the .22o file when prompted.
 
 ![Satellite page](rtkbase10.png)
 
+You now have a choice of providers for post-processing. IGN is French, and that's what Centipede recommend, there's NRCAN for Canada, AUSPOS for Australia and IBGE for Brazil. You might notice that $YOURCOUNTRY isn't in that list, but not to worry. Just pick your closest one I guess and follow the appropriate guide:
+
+IGN - Europe
+AUSPOS - Australaisia
+NRCAN - North America/Canada
+IGBE - South America
+
+
 The IGN window... yeah it's all in French, which could be tricky if you don't speak it. So do this. Upload it via "Choose file". Only the top one, you don't do the others. Set the other bits in red to 12 and 5000km, enter your valid email address and solve the captcha. And that's it. Now you wait for your email to arrive.
 
 ![Satellite page](rtkbase11.png)
