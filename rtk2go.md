@@ -16,6 +16,8 @@ Leave everything else at default, but put in a city and country.
 
 ![rtk2go registration](rtk2go2.png)
 
+ ### Do NOT tick the box about publishing from a FIXED IP!
+
 Notice this bit at the bottom - you'll be sent a confirmation email which you have to reply to (don't have to say anything in it, just hit reply and Send) and then the reservation will be processed. You can use a temporary password until the point has become properly registered, and if you don't change it over at that point, then your site WILL be banned for a few hours until you resolve the issue.
 
 With this in mind, I don't recommend enabling even on the temporary password UNTIL you have received confirmation that your mount point has been registered and should be using your proper password. Just be patient.

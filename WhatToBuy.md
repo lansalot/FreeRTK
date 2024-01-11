@@ -11,21 +11,20 @@ Some people choose to do this via their PC, but I don't recommend that, because 
 
 So, first of all, you'll need that GPS hardware. This whole thing has come about in thanks to u-blox and their ZED-F9P chips. These are incredibly low-cost, but high-performance devices, and if you hit your favourite search engine, you'll easily find out why they're the preferred kit of choice for anyone providing their own RTK services. **Do not** think that "cheap means rubbish". These can very easily provide a quality of RTK corrections to match commercial services.
 
-I found the best place to get them was here at Ardusimple, this is a starter kit of the board and the antenna:
-https://www.ardusimple.com/product/simplertk2b-basic-starter-kit-ip65/
+I found the best place to get them was here at Ardusimple: https://www.ardusimple.com/product/simplertk2b/
 
-![Simplee kit](simplekit.png) 
+![TheBoard](theboard.png) 
 
-That's the one I've bought for a couple of base stations and it works great, and yep, if you've clear skies, that antenna will likely be more than enough to get you going.
-
-If however, you'd like a fancier antenna (and again, it's not totally necessary), then you can buy [the board](https://www.ardusimple.com/product/simplertk2b/) on its own and [this antenna ](https://www.ardusimple.com/product/survey-gnss-multiband-antenna/) instead.
+Get this [antenna ](https://www.ardusimple.com/product/survey-gnss-multiband-antenna/).
 
 ![Survey Antenna](surveyantenna.png)
-![The board](theboard.png)
+
 
 When you order from Ardusimple, you'll be given the opportunity to pay the import tax, or not - I opted not, and immediately got an email from DHL asking for the cash. So up to you really, think it works out about the same. In total, I paid about £250 tho.
 
 Take note: if you're thinking about going for different models, then you REALLY want the ZED-F9P, and make sure you're not buying "just the chip" somehow. You really want that board with the micro USB output, and that "F9P" designation IS IMPORTANT!
+
+Get an antenna extension cable while you're at it: https://www.ardusimple.com/product/antenna-cable-extender/
 
 ---
 
