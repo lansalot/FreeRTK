@@ -1,5 +1,30 @@
 # FreeRTK
-## How to set up your own RTK base station
+
+
+# First of all, this is information is now pretty old - go check out this more up-to-date video here!
+
+<img width="2124" height="1275" alt="image" src="https://github.com/user-attachments/assets/09b46b1e-97dd-4099-8d71-a97c3a77f5b7" />
+
+https://youtu.be/fdhNE5D1g9w - part 1
+
+https://youtu.be/vgqqXpgIloQ - part 2
+
+---
+
+# No seriously, go check out the videos instead!!
+
+https://youtu.be/fdhNE5D1g9w - part 1
+
+https://youtu.be/vgqqXpgIloQ - part 2
+
+
+
+
+
+---
+
+
+## How to set up your own RTK base station (if you don't want to watch the videos above)
 
 OK, about time I got writing this stuff down. This is from the point of view of someone who wishes to set up their own base station. It's a lot simpler than you might think, if you can get past the hurdle of finding the little computers in stock that is...
 
